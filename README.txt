@@ -1,5 +1,10 @@
-Dessa filer går INTE att köra på datorn som dom är eftersom de är ämnade för Android
-och ämnade för installation på Android via Android Studio SDK.
+Dessa filer gÃ¥r INTE att kÃ¶ra pÃ¥ datorn som dom Ã¤r eftersom de Ã¤r Ã¤mnade fÃ¶r Android
+och Ã¤mnade fÃ¶r installation pÃ¥ Android via Android Studio SDK.
 
-XML filerna är så kallade "Layout" skript som bestämmer design  på appen, visste inte om jag skulle 
-ha med dom eller inte så jag la med dom ändå.
+XML filerna Ã¤r sÃ¥ kallade "Layout" skript som bestÃ¤mmer design  pÃ¥ appen, visste inte om jag skulle 
+ha med dom eller inte sÃ¥ jag la med dom Ã¤ndÃ¥.
+
+
+THIS IS CRAP
+I MADE THIS A LONG TIME AGO
+F*** OFF
