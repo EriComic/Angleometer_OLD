@@ -1,8 +1,3 @@
-# No bueno 
+# OLD
 
-
-Dessa filer går INTE att köra på datorn som dom är eftersom de är ämnade för Android
-och ämnade för installation på Android via Android Studio SDK.
-
-XML filerna är så kallade "Layout" skript som bestämmer design  på appen, visste inte om jag skulle 
-ha med dom eller inte så jag la med dom ändå.
+Just an old project of mine. An Android app that prints the physcal oriantation of the phone as an angle borh vertically and horizontally.
